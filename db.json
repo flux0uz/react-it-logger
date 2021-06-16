@@ -22,11 +22,11 @@
       "date": "03-02-2019"
     },
     {
-      "id": 4,
-      "message": "Workstation 026 is up and running",
+      "message": "Workstation 027 is up and running",
       "attention": false,
       "tech": "Sara Wilson",
-      "date": "03-02-2019"
+      "date": "2021-06-16T17:33:37.069Z",
+      "id": 4
     }
   ],
   "techs": [
@@ -44,6 +44,11 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "Arthur",
+      "lastName": "Amon",
+      "id": 4
     }
   ]
 }
